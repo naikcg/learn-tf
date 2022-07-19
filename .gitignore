@@ -1,0 +1,4 @@
+.terraform
+*.tfstate
+*.tfstate.backup
+Git-process-doc.txt
